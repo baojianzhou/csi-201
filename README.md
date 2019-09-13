@@ -5,3 +5,4 @@
 
 #Lab-01
 [Slides](https://docs.google.com/presentation/d/1rLQYHeHAO2sn-0a339mUM6Not3N71RQGKW7f9EyTf68/edit?usp=sharing)
+[Detailed Instruction](https://docs.google.com/document/d/1srDix8dV_6dCcJPTVPPQoAr2hEiiCSRGcMmyfLUzoTI/edit?usp=sharing)
