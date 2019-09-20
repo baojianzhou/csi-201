@@ -14,5 +14,13 @@ Slides: [Link](https://docs.google.com/presentation/d/1rLQYHeHAO2sn-0a339mUM6Not
 Detailed Instruction: [Link](https://docs.google.com/document/d/1srDix8dV_6dCcJPTVPPQoAr2hEiiCSRGcMmyfLUzoTI/edit?usp=sharing)
 
 
-
 ---
+
+
+#Lab-02
+
+Due Date: Saturday, September 28, 2019 (10:55pm)
+
+Slides: [Link](https://docs.google.com/presentation/d/11R74j0FSv96vl6X8W8S6pFlhe_YBPV6CosJxM2sW5kQ/edit?usp=sharing)
+
+Detailed Instruction: [Link](https://docs.google.com/document/d/1tj2RyNL9JWFvq9M0yEGSzIeosVZ6LZm0Oa9bnUCht6U/edit?usp=sharing)
