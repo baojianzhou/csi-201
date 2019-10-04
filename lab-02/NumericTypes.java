@@ -1,4 +1,10 @@
-// TASK #2 Add an import statement for the Scanner class
+import java.util.Scanner;
+import java.util.SortedSet;
+import java.util.TreeSet;
+
+import javax.swing.JOptionPane;
+import javax.swing.JFrame;
+
 // TASK #2(Alternate)
 // Add an import statement for the JOptionPane class
 
@@ -11,30 +17,41 @@ public class NumericTypes
 {
    public static void main (String [] args)
    {
-      // TASK #2 Create a Scanner object here
-      // (not used for alternate)
+      Scanner myObj = new Scanner(System.in);
+      String test1= JOptionPane.showInputDialog("Please input mark for test 1: ");
+
+        String test2= JOptionPane.showInputDialog("Please input mark for test 2: ");
+
+        String test3= JOptionPane.showInputDialog("Please input mark for test 3: ");
+
+      
 
       // Identifier declarations
       final int NUMBER = 2 ;        // Number of scores
       final int SCORE1 = 100;       // First test score
       final int SCORE2 = 95;        // Second test score
       final int BOILING_IN_F = 212; // Boiling temperature
-      int fToC;                     // Temperature Celsius
+      double fToC;                     // Temperature Celsius
       double average;               // Arithmetic average
       String output;                // Line of output
 
-      // TASK #2 declare variables used here
+      System.out.println("Enter first name");
+      String firstName = myObj.nextLine();  // Read user input
+      System.out.println("Last name");
+      String lastName = myObj.nextLine();  // Read user input
+      String fullName = firstName + " " + lastName;
+      System.out.println(fullName);
       // TASK #3 declare variables used here
       // TASK #4 declare variables used here
 
       // Find an arithmetic average.
-      average = SCORE1 + SCORE2 / NUMBER;
+      average = (SCORE1 + SCORE2) / NUMBER;
       output = SCORE1 + " and " + SCORE2 +
                " have an average of " + average;
       System.out.println(output);
 
       // Convert Fahrenheit temperature to Celsius.
-      fToC = 5/9 * (BOILING_IN_F - 32);
+      fToC = 5./9. * (BOILING_IN_F*1.0 - 32);
       output = BOILING_IN_F + " in Fahrenheit is " +
                fToC + " in Celsius.";
       System.out.println(output);
