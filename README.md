@@ -42,3 +42,11 @@ Slides: [Link](https://docs.google.com/presentation/d/11hESUf7aAcNjtV_zemwki9rTo
 Slides: [Link](https://docs.google.com/presentation/d/1_NU7t02-456qyijjP2Jbn_GpXrPn5hkhPGTGlt0FTJM/edit?usp=sharing)
 
 Detailed Instruction: [Link](https://docs.google.com/document/d/1Pw5c914cWXL3RPbbpYnGeGB4P8FhEqTh_gT-GcLJNAg/edit?usp=sharing)
+
+---
+
+# Week-05
+
+Slides: [Link](https://docs.google.com/presentation/d/1eEUB9a82qEIvn9RTeh1yHnUtBz1pTnQLKyBFOOVmzZI/edit?usp=sharing)
+
+Detailed Instruction: [Link](https://docs.google.com/document/d/1SChrv0fjYC2ZIHW5LXottBIl9pIAB2kqj299ZZvt57U/edit?usp=sharing)
