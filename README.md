@@ -50,3 +50,12 @@ Detailed Instruction: [Link](https://docs.google.com/document/d/1Pw5c914cWXL3RPb
 Slides: [Link](https://docs.google.com/presentation/d/1eEUB9a82qEIvn9RTeh1yHnUtBz1pTnQLKyBFOOVmzZI/edit?usp=sharing)
 
 Detailed Instruction: [Link](https://docs.google.com/document/d/1SChrv0fjYC2ZIHW5LXottBIl9pIAB2kqj299ZZvt57U/edit?usp=sharing)
+
+# Week-06
+
+---
+
+Slides: [Link](https://docs.google.com/presentation/d/10kaMik1zOlJWWc82AHfwigC-vkfX7_kCFg_mOv0i6JY/edit?usp=sharing)
+
+Detailed Instruction: [Link](https://docs.google.com/document/d/1mjifdh9EA9O0q0h7NOruOHw_v9NmIeIb3BMvgiK_L5U/edit?usp=sharing)
+
