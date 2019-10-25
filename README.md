@@ -59,3 +59,13 @@ Slides: [Link](https://docs.google.com/presentation/d/10kaMik1zOlJWWc82AHfwigC-v
 
 Detailed Instruction: [Link](https://docs.google.com/document/d/1mjifdh9EA9O0q0h7NOruOHw_v9NmIeIb3BMvgiK_L5U/edit?usp=sharing)
 
+
+# Week-07
+
+---
+
+Slides: [Link](https://docs.google.com/presentation/d/1vh7q8Hc4HyzufaoM9DxGdf7idbR1smo96epn91isYZk/edit?usp=sharing)
+
+Detailed Instruction: [Link](https://docs.google.com/document/d/1pl-7RQnPq7rJiYK_ByJWbpEJtZvGKPIB4W8kg4FntTc/edit?usp=sharing)
+
+
