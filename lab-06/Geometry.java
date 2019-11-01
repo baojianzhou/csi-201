@@ -101,4 +101,13 @@ public class Geometry {
     // TASK #1 Create the printMenu method here
     // TASK #2 Create the value-returning methods here
     // TASK #4 Write javadoc comments for each method
+
+    /**
+     * Test
+     * @param r
+     * @return
+     */
+    public static double circleArea(double r) {
+        return 3.1415926535 * r * r;
+    }
 }
