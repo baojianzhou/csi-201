@@ -68,4 +68,12 @@ Slides: [Link](https://docs.google.com/presentation/d/1vh7q8Hc4HyzufaoM9DxGdf7id
 
 Detailed Instruction: [Link](https://docs.google.com/document/d/1pl-7RQnPq7rJiYK_ByJWbpEJtZvGKPIB4W8kg4FntTc/edit?usp=sharing)
 
+---
+
+# Week-08: HW Assignment 3
+
+Slides: [Link](https://docs.google.com/presentation/d/1xAAQQtcXM8f_qyI2vwZirPlC3S9ci_sRt_EQiAUN77w/edit?usp=sharing)
+
+Detailed Instruction: [Link](https://docs.google.com/document/d/1wNJooCkgglX6ACTCrHKHpkEdCqjLm139nNebDyKS1mE/edit?usp=sharing)
+
 
