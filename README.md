@@ -1,3 +1,6 @@
+
+Email: bzhou6@albany.edu
+
 # csi-201
 
 #Lab-00
