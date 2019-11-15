@@ -51,7 +51,7 @@ Lab-04(Loops) Slides: [Link](https://docs.google.com/presentation/d/1eEUB9a82qEI
 
 Detailed Instruction: [Link](https://docs.google.com/document/d/1SChrv0fjYC2ZIHW5LXottBIl9pIAB2kqj299ZZvt57U/edit?usp=sharing)
 
-# Week-06
+# Week-06(Lab-05 Files)
 
 ---
 
@@ -60,7 +60,7 @@ Lab-05(Files) Slides: [Link](https://docs.google.com/presentation/d/10kaMik1zOlJ
 Detailed Instruction: [Link](https://docs.google.com/document/d/1mjifdh9EA9O0q0h7NOruOHw_v9NmIeIb3BMvgiK_L5U/edit?usp=sharing)
 
 
-# Week-07
+# Week-07(Lab-06 Methods)
 
 ---
 
@@ -70,7 +70,7 @@ Detailed Instruction: [Link](https://docs.google.com/document/d/1pl-7RQnPq7rJiYK
 
 ---
 
-# Week-08: HW Assignment 3
+# Week-08: HW3
 
 (HW3)Slides: [Link](https://docs.google.com/presentation/d/1xAAQQtcXM8f_qyI2vwZirPlC3S9ci_sRt_EQiAUN77w/edit?usp=sharing)
 
@@ -79,7 +79,7 @@ Detailed Instruction: [Link](https://docs.google.com/document/d/1wNJooCkgglX6ACT
 
 ---
 
-# Week-09: HW Assignment 3
+# Week-09: Lab-07
 
 Lab-07(Objects) Slides: [Link](https://docs.google.com/presentation/d/16GA2OunZt6clG5F2vCXoExROIH3cwoD8JWnWs6_Gj80/edit?usp=sharing)
 
