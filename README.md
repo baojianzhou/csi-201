@@ -93,7 +93,7 @@ Detailed Instruction: [Link](https://docs.google.com/document/d/1E0hLRmt3DIP15F7
 
 # Week-10: Lab-08(Arrays)
 
-Lab-07(Arrays) Slides: [Link](https://docs.google.com/presentation/d/1cKJwuVVGHff9tTNAsUCq0Jd2ta4ydpkG0UaTB4Dj5_4/edit?usp=sharing)
+Lab-08(Arrays) Slides: [Link](https://docs.google.com/presentation/d/1cKJwuVVGHff9tTNAsUCq0Jd2ta4ydpkG0UaTB4Dj5_4/edit?usp=sharing)
 
 Detailed Instruction: [Link](https://docs.google.com/document/d/1TISVB0m634bU1TqAbwDff3ta1kk3eYYtJ2AQ98cwIW0/edit?usp=sharing)
 
