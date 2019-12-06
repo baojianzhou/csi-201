@@ -107,3 +107,5 @@ Lab-09(Aggregation Relationship) Slides: [Link](https://docs.google.com/presenta
 Detailed Instruction: [Link](https://docs.google.com/document/d/1mFqBA0eF8T5ZQcTzse81ubt0K1HgWIqb4h5H396mNfE/edit?usp=sharing)
 
 
+Presentation: [Link](https://docs.google.com/presentation/d/1nvpfOPO2-ZcRhIYvL817tNzbs5aziqGBeWN7Mc22PXo/edit?usp=sharing)
+
