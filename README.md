@@ -98,3 +98,12 @@ Lab-08(Arrays) Slides: [Link](https://docs.google.com/presentation/d/1cKJwuVVGHf
 Detailed Instruction: [Link](https://docs.google.com/document/d/1TISVB0m634bU1TqAbwDff3ta1kk3eYYtJ2AQ98cwIW0/edit?usp=sharing)
 
 
+---
+
+# Week-11: Lab-09(Aggregation Relationship)
+
+Lab-09(Aggregation Relationship) Slides: [Link](https://docs.google.com/presentation/d/1kiR6tRmTkU6-E4lJ7SdSs6NePnEKOK1RjKMH6XtqRqo/edit?usp=sharing)
+
+Detailed Instruction: [Link](https://docs.google.com/document/d/1mFqBA0eF8T5ZQcTzse81ubt0K1HgWIqb4h5H396mNfE/edit?usp=sharing)
+
+
